@@ -1,3 +1,0 @@
-pandas
-mp_api
-numpy
